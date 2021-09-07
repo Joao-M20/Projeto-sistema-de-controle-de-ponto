@@ -1,7 +1,7 @@
 # Projeto-DIO-sistema-de-controle-de-ponto
 
-*Link do codigo original: https://github.com/rodolfogomes/diolive
-*Professor: Rodolfo Gomes
+* Link do codigo original: https://github.com/rodolfogomes/diolive  
+* Professor: Rodolfo Gomes
 
 **Descrição**
 
